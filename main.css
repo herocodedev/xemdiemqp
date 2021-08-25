@@ -1,0 +1,11 @@
+body {
+    position: relative;
+}
+
+img {
+    transform: rotateZ( 45deg);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}

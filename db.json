@@ -1,0 +1,18 @@
+{
+    "mark": [{ "stt": 1, "mssv": "B1602664", "ten": "Nguyen Diem Trinh", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 2, "mssv": "B1801234", "ten": "Thach Thanh Phong", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 3, "mssv": "B1809303", "ten": "Nguyen Le Phuc Tien", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 4, "mssv": "B1809504", "ten": "Kim Hong Minh Quan", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 5, "mssv": "B1810827", "ten": "Nguyen Phi Nhieu", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 6, "mssv": "B1812371", "ten": "Ngo Nhat Quan", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 7, "mssv": "B1904955", "ten": "Cao Hoai An", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 8, "mssv": "B1905154", "ten": "Do Quang Vinh", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 9, "mssv": "B1909446", "ten": "Vuong Gia Binh", "tbhp1": null, "tbhp2": null, "tbhp3": null, "tbhp4": null },
+        { "stt": 10, "mssv": "B1909526", "ten": "Dang Huynh Phuong Mai", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 11, "mssv": "B1911164", "ten": "Nguyen Thoai Vy", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 12, "mssv": "B1913489", "ten": "Trang Thuy Linh", "tbhp1": null, "tbhp2": null, "tbhp3": null, "tbhp4": null },
+        { "stt": 13, "mssv": "B2000104", "ten": "Tran Thai Duy", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 14, "mssv": "B2000912", "ten": "Nguyen Huynh Anh", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 },
+        { "stt": 15, "mssv": "B2000913", "ten": "Nguyen Ngoc Huong Anh", "tbhp1": 10, "tbhp2": 10, "tbhp3": 10, "tbhp4": 10 }
+    ]
+}
