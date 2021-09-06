@@ -6,6 +6,7 @@ const searchBtn = document.querySelector('.search-btn')
 var bodyTable = document.querySelector('.body-table')
 var backBtn = document.querySelector('.back-home')
 var data
+
 fetch(markApt)
     .then((response) => response.json())
     .then((marks) => {
