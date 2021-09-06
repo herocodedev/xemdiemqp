@@ -1,5 +1,6 @@
 const markApt = 'http://localhost:3000/mark'
 
+
 const contentEl = document.querySelector('.content')
 const inputSearch = document.querySelector('.input-search')
 const searchBtn = document.querySelector('.search-btn')
